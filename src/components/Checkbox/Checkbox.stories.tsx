@@ -12,8 +12,11 @@ const meta = {
     design: { type: 'figma', url: FIGMA },
     docs: {
       description: {
-        component:
-          'Lets people pick any number of options from a list, or toggle one setting that takes effect on submit. Use Radio Button when only one option can be chosen.',
+        component: `Lets people pick any number of options from a list, or toggle one setting that takes effect on submit. Use Radio Button when only one option can be chosen.
+
+---
+
+> 📊 **Usage Analytics**: **Low Usage** (2 instances in Figma) • **Health Score**: 80% • **Audit Status**: Healthy`,
       },
     },
   },

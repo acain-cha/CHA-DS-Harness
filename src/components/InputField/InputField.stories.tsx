@@ -12,8 +12,11 @@ const meta = {
     design: { type: 'figma', url: FIGMA },
     docs: {
       description: {
-        component:
-          'Single-line text entry. Always give it a visible label. Use help text for format hints ("MM/DD/YYYY") instead of relying on placeholder text, which disappears as people type. For multiple lines use Textarea.',
+        component: `Single-line text entry. Always give it a visible label. Use help text for format hints ("MM/DD/YYYY") instead of relying on placeholder text, which disappears as people type. For multiple lines use Textarea.
+
+---
+
+> 📊 **Usage Analytics**: **Medium Usage** (5 instances in Figma) • **Health Score**: 80% • **Audit Status**: Healthy`,
       },
     },
   },

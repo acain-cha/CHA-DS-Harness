@@ -4,7 +4,7 @@
     "fileKey": "nMenOGxGYRL0pyDAc0ZmFF",
     "note": "Working from a duplicate in Tony's drafts; the original (a1l2Mpc7tG1Qdm8PZvDr57) isn't editable by the connected account.",
     "lastInventoried": "2026-11-06",
-    "lastSyncCheck": "2026-11-06",
+    "lastSyncCheck": "2026-11-18",
     "syncBlocked": "2026-11-06: sync check could not run, Figma Starter plan MCP call limit reached on the first get_metadata call. Nothing re-read from Figma; component statuses unchanged. Re-run when calls are available.",
     "syncBaseline": "Partial: Components page metadata and all known variables. Next run adds the Buttons, Forms, Cards and Slots pages, plus per-component variables, screenshots and design context for built components."
   },

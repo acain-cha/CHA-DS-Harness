@@ -1,0 +1,38 @@
+{
+  "$schema": "./team-files-manifest.schema.json",
+  "folderUrl": "https://www.figma.com/files/folder/98067577",
+  "designSystemFile": {
+    "key": "nMenOGxGYRL0pyDAc0ZmFF",
+    "name": "CHA-Design-System--Copy-",
+    "url": "https://www.figma.com/design/nMenOGxGYRL0pyDAc0ZmFF/CHA-Design-System--Copy-"
+  },
+  "teamFiles": [
+    {
+      "key": "uyCUc0rtedTba1di52lBtY",
+      "name": "Chattanooga - Website",
+      "url": "https://www.figma.com/design/uyCUc0rtedTba1di52lBtY/Chattanooga---Website?m=auto&t=BuDpx2clkuHFEe2Y-6",
+      "category": "Production Website",
+      "description": "Production City of Chattanooga website mockups and page templates.",
+      "enabled": true,
+      "lastScanned": null
+    },
+    {
+      "key": "8tOVGi7lqB7XBBEMOsiTbS",
+      "name": "Exploratory Ideas",
+      "url": "https://www.figma.com/design/8tOVGi7lqB7XBBEMOsiTbS/Exploratory-Ideas?m=auto&t=BuDpx2clkuHFEe2Y-6",
+      "category": "Exploratory / Concepts",
+      "description": "Team exploratory concepts, new feature proposals, and experiments.",
+      "enabled": true,
+      "lastScanned": null
+    },
+    {
+      "key": "jKdpXvXVqTvWgL0iXdD1ho",
+      "name": "Outdoor Chattanooga 2027",
+      "url": "https://www.figma.com/design/jKdpXvXVqTvWgL0iXdD1ho/Outdoor-Chattanooga-2027?m=auto&t=BuDpx2clkuHFEe2Y-6",
+      "category": "Initiative Project",
+      "description": "Outdoor Chattanooga 2027 initiative project designs and subpages.",
+      "enabled": true,
+      "lastScanned": null
+    }
+  ]
+}

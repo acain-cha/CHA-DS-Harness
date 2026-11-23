@@ -12,8 +12,11 @@ const meta = {
     design: { type: 'figma', url: FIGMA },
     docs: {
       description: {
-        component:
-          'Navigation to another page or section. Use **light** on dark backgrounds and **dark** where the blue link colour clashes. Link text should say where it goes ("View trash pickup schedule"), not "click here".',
+        component: `Navigation to another page or section. Use **light** on dark backgrounds and **dark** where the blue link colour clashes. Link text should say where it goes ("View trash pickup schedule"), not "click here".
+
+---
+
+> 📊 **Usage Analytics**: **Medium Usage** (13 instances: 1 in code, 12 in Figma) • **Health Score**: 90% • **Audit Status**: Healthy`,
       },
     },
   },

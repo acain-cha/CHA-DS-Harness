@@ -12,8 +12,11 @@ const meta = {
     design: { type: 'figma', url: FIGMA },
     docs: {
       description: {
-        component:
-          'Actions on a page. **Primary** is the main call to action (one per view). **Outline** is a secondary action; use **Outline on dark** over blue or image backgrounds. **Ghost** is the lowest emphasis. Use Text Link, not Button, for navigation.',
+        component: `Actions on a page. **Primary** is the main call to action (one per view). **Outline** is a secondary action; use **Outline on dark** over blue or image backgrounds. **Ghost** is the lowest emphasis. Use Text Link, not Button, for navigation.
+
+---
+
+> 📊 **Usage Analytics**: **High Usage** (53 instances: 1 in code, 52 in Figma) • **Health Score**: 90% • **Audit Status**: Healthy`,
       },
     },
   },

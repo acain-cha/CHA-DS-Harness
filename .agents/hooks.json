@@ -1,0 +1,17 @@
+{
+  "harness-context-gate": {
+    "enabled": true,
+    "PreToolUse": [
+      {
+        "matcher": "replace_file_content|write_to_file",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node scripts/harness.mjs hook",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

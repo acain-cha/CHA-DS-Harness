@@ -1,8 +1,9 @@
 {
   "contextEnforcement": "warn",
-  "figmaSync": "paused",
-  "figmaSyncNote": "Starter plan MCP call limit reached. Resume when the project-owned Figma account is ready.",
-  "internalComponents": ["Icon"],
+  "figmaSync": "active",
+  "figmaSyncNote": "Active connection via Figma Dev Mode MCP.",
+  "internalComponents": ["Icon", "UsageBadge"],
+  "teamFilesManifest": "design-system/team-files-manifest.json",
   "severity": {
     "token": "warn"
   }
